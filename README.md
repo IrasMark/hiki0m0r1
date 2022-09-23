@@ -2,8 +2,6 @@
     
   Я новичёк в программирование, учусь в колледже / I am new to programming , studying in college .            
   
-  В будущем хочу стать счастливым  / I want to become a happy in the future. 
-  
   С++ 
   
   <3 thx for reading 
