@@ -2,7 +2,7 @@
     
   Я новичёк в программирование, учусь в колледже / I am new to programming , studying in college .            
   
-  С++ 
+  С++ / C 
   
   <3 thx for reading 
   
