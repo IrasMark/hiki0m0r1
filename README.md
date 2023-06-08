@@ -1,12 +1,9 @@
-  Hi / Привет 
-    
-  Я новичёк в программирование, учусь в колледже / I am new to programming , studying in college .            
-  
-  С++ / C 
-  
-  <3 thx for reading 
-  
-  ![image](https://user-images.githubusercontent.com/92443953/184135068-9f766104-b932-4ae7-b2fd-cd9bbbff3de5.png)
-  
-  
- 
+#Ira
+
+hello its ira ,
+
+I am a beginner programmer student from Kazakhstan ,
+
+node / c# / c++ / jS / html,css
+
+![image](https://user-images.githubusercontent.com/92443953/222239927-e2fcd8d8-60c0-4236-8cc4-f7bd4c0198c7.png)
